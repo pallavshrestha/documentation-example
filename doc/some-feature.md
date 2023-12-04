@@ -2,13 +2,12 @@
 
 ## Subsection
 
-Exciting documentation in here.
-Let's make a list (empty surrounding lines required):
+Exciting documentation is here.
+This is a new list (empty surrounding lines requires):
 
-- item 1
+- item 1 
 
   - nested item 1
   - nested item 2
 
-- item 2
 - item 3
